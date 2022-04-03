@@ -1,12 +1,13 @@
-﻿using System;
+﻿//using System;
 
-namespace Hello
-{
-    class MainClass
-    {
-        public static void Main(string[] args)
-        {
-            Console.WriteLine("Hello Harendra");
-        }
-    }
-}
+//namespace HelloWord
+//{
+//    class MainClass
+//    {
+//        public static void Main(string[] args)
+//        {
+//            Console.WriteLine("Hello World! This is My First C# Program  ");
+//            Console.ReadLine();
+//        }
+//    }
+//}
