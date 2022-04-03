@@ -1,11 +1,14 @@
 ﻿using System;
 
-    public class ThirdMethod
-
+namespace FourthProgram
+{
+    class FourthProgram
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("this is third program to run C# program ");
+            Console.WriteLine("This is 4th mathod to run C# program :");
+            Console.ReadLine();
         }
     }
-//this is use of public modifier in c# program by @harendraprajapati72
+}
+//this is use of namespace in  c# program  by @harendraprajapati72
