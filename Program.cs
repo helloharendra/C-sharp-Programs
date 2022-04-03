@@ -1,13 +1,11 @@
-﻿//using System;
+﻿using System;
 
-//namespace HelloWord
-//{
-//    class MainClass
-//    {
-//        public static void Main(string[] args)
-//        {
-//            Console.WriteLine("Hello World! This is My First C# Program  ");
-//            Console.ReadLine();
-//        }
-//    }
-//}
+    public class ThirdMethod
+
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("this is third program to run C# program ");
+        }
+    }
+//this is use of public modifier in c# program by @harendraprajapati72
